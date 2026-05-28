@@ -1,6 +1,6 @@
 module github.com/kamihama-railway/jr-watcher
 
-go 1.26.2
+go 1.26
 
 require (
 	github.com/WJQSERVER-STUDIO/httpc v0.9.3
